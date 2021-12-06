@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "61ad564e626bfd1b5a1cc165"
+  },
+  "firstName": "Joe",
+  "lastName": "Shmo",
+  "userName": "JoeShmo",
+  "email": "joeshmo@gmail.com",
+  "passwordHash": "$2a$10$3lpwlUZNncDE6bgngKD0leBXSqBHDd9Kfde4/7oqz1MLqWE3HRj2q",
+  "createdAt": {
+    "$date": "2021-12-06T00:16:14.155Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T00:16:14.155Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ad5de3626bfd1b5a1cc28d"
+  },
+  "firstName": "Jane",
+  "lastName": "Doe",
+  "userName": "JaneDoe",
+  "email": "janedoe@gmail.com",
+  "passwordHash": "$2a$10$dZied3xtz9M1caVoxAi/IOSqdfVYmyB7o/fpaQWBsd5nucZl.bflq",
+  "createdAt": {
+    "$date": "2021-12-06T00:48:35.488Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T00:48:35.488Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ad5ed2626bfd1b5a1cc2ad"
+  },
+  "firstName": "Don",
+  "lastName": "Ho",
+  "userName": "DonHo",
+  "email": "donho@gmail.com",
+  "passwordHash": "$2a$10$.Pq/sqVn90yWtnhLGIGHKe.QH10DQMEjQWn2n/RSS0eoSPVz/2OjK",
+  "createdAt": {
+    "$date": "2021-12-06T00:52:34.150Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T00:52:34.150Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "61ad5688626bfd1b5a1cc173"
+  },
+  "items": [
+    "StarCraft",
+    "Fallout 3",
+    "Civilization II",
+    "Super Mario World",
+    "Call of Duty"
+  ],
+  "userLikes": [
+    "DonHo",
+    "JoeShmo"
+  ],
+  "userDislikes": [],
+  "name": "Games",
+  "updatedDate": "Sun Dec 05 2021 19:53:14 GMT-0500 (Eastern Standard Time)",
+  "numberOfLikes": 2,
+  "numberOfDislikes": 0,
+  "comments": [
+    {
+      "_id": {
+        "$oid": "61ad6117626bfd1b5a1cc38a"
+      },
+      "key": "JoeShmo",
+      "value": "hello!"
+    },
+    {
+      "_id": {
+        "$oid": "61ad5f5b626bfd1b5a1cc31d"
+      },
+      "key": "DonHo",
+      "value": "hi"
+    }
+  ],
+  "numberOfViews": 10,
+  "itemPointPairs": [
+    {
+      "_id": {
+        "$oid": "61ad5688626bfd1b5a1cc174"
+      },
+      "key": "StarCraft",
+      "value": 12
+    },
+    {
+      "_id": {
+        "$oid": "61ad5688626bfd1b5a1cc175"
+      },
+      "key": "Fallout 3",
+      "value": 7
+    },
+    {
+      "_id": {
+        "$oid": "61ad5e17626bfd1b5a1cc2a0"
+      },
+      "key": "Civilization II",
+      "value": 7
+    },
+    {
+      "_id": {
+        "$oid": "61ad5e17626bfd1b5a1cc2a3"
+      },
+      "key": "Super Mario World",
+      "value": 6
+    },
+    {
+      "_id": {
+        "$oid": "61ad5688626bfd1b5a1cc177"
+      },
+      "key": "Call of Duty",
+      "value": 5
+    },
+    {
+      "_id": {
+        "$oid": "61ad5efb626bfd1b5a1cc2c2"
+      },
+      "key": "Katamari Damacy",
+      "value": 4
+    },
+    {
+      "_id": {
+        "$oid": "61ad5688626bfd1b5a1cc176"
+      },
+      "key": "League of Legends",
+      "value": 3
+    },
+    {
+      "_id": {
+        "$oid": "61ad5688626bfd1b5a1cc178"
+      },
+      "key": "Diablo",
+      "value": 1
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-06T00:17:12.587Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T01:02:15.936Z"
+  },
+  "__v": 16
+}]

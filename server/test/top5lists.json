@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "61ad5661626bfd1b5a1cc16d"
+  },
+  "items": [
+    "StarCraft",
+    "Fallout 3",
+    "League of Legends",
+    "Call of Duty",
+    "Diablo"
+  ],
+  "userLikes": [],
+  "userDislikes": [],
+  "name": "Games",
+  "userName": "JoeShmo",
+  "ownerEmail": "joeshmo@gmail.com",
+  "numberOfLikes": 0,
+  "numberOfDislikes": 0,
+  "publishedDate": "Sun Dec 05 2021 19:16:33 GMT-0500 (Eastern Standard Time)",
+  "comments": [],
+  "isPublished": true,
+  "numberOfViews": 1,
+  "createdAt": {
+    "$date": "2021-12-06T00:16:33.675Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T01:01:15.224Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61ad5def626bfd1b5a1cc294"
+  },
+  "items": [
+    "StarCraft",
+    "Civilization II",
+    "Call of Duty",
+    "Fallout 3",
+    "Super Mario World"
+  ],
+  "userLikes": [],
+  "userDislikes": [],
+  "name": "Games",
+  "userName": "JaneDoe",
+  "ownerEmail": "janedoe@gmail.com",
+  "numberOfLikes": 0,
+  "numberOfDislikes": 0,
+  "publishedDate": "Sun Dec 05 2021 19:48:47 GMT-0500 (Eastern Standard Time)",
+  "comments": [],
+  "isPublished": true,
+  "numberOfViews": 0,
+  "createdAt": {
+    "$date": "2021-12-06T00:48:47.486Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T00:49:26.960Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61ad5e18626bfd1b5a1cc2a5"
+  },
+  "items": [
+    "Dark Souls III",
+    "Dark Souls",
+    "Bloodborne",
+    "Sekiro: Shadows Die Twice",
+    "Pokemon Platinum"
+  ],
+  "userLikes": [],
+  "userDislikes": [],
+  "name": "Games",
+  "userName": "JaneDoe",
+  "ownerEmail": "janedoe@gmail.com",
+  "numberOfLikes": 0,
+  "numberOfDislikes": 0,
+  "publishedDate": "Sun Dec 05 2021 19:49:28 GMT-0500 (Eastern Standard Time)",
+  "comments": [],
+  "isPublished": false,
+  "numberOfViews": 0,
+  "createdAt": {
+    "$date": "2021-12-06T00:49:28.292Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T00:50:40.868Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61ad5ede626bfd1b5a1cc2b4"
+  },
+  "items": [
+    "Super Mario World",
+    "Katamari Damacy",
+    "Civilization II",
+    "StarCraft",
+    "Fallout 3"
+  ],
+  "userLikes": [],
+  "userDislikes": [],
+  "name": "Games",
+  "userName": "DonHo",
+  "ownerEmail": "donho@gmail.com",
+  "numberOfLikes": 0,
+  "numberOfDislikes": 0,
+  "publishedDate": "Sun Dec 05 2021 19:52:46 GMT-0500 (Eastern Standard Time)",
+  "comments": [],
+  "isPublished": true,
+  "numberOfViews": 1,
+  "createdAt": {
+    "$date": "2021-12-06T00:52:46.253Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T00:54:58.508Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61ad5f71626bfd1b5a1cc32b"
+  },
+  "items": [
+    "Hawaii, USA",
+    "Kyoto, Japan",
+    "Moscow, Russia",
+    "New Delhi, India",
+    "Cairo, Egypt"
+  ],
+  "userLikes": [],
+  "userDislikes": [],
+  "name": "Travel Destinations",
+  "userName": "DonHo",
+  "ownerEmail": "donho@gmail.com",
+  "numberOfLikes": 0,
+  "numberOfDislikes": 0,
+  "publishedDate": "Sun Dec 05 2021 19:55:13 GMT-0500 (Eastern Standard Time)",
+  "comments": [],
+  "isPublished": false,
+  "numberOfViews": 0,
+  "createdAt": {
+    "$date": "2021-12-06T00:55:13.104Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T00:57:27.838Z"
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "61ad6044626bfd1b5a1cc357"
+  },
+  "items": [
+    "Western Classical",
+    "Jazz",
+    "R&B",
+    "Rock",
+    "Folk"
+  ],
+  "userLikes": [],
+  "userDislikes": [],
+  "name": "Musical Genres",
+  "userName": "JoeShmo",
+  "ownerEmail": "joeshmo@gmail.com",
+  "numberOfLikes": 0,
+  "numberOfDislikes": 0,
+  "publishedDate": "Sun Dec 05 2021 19:58:44 GMT-0500 (Eastern Standard Time)",
+  "comments": [],
+  "isPublished": false,
+  "numberOfViews": 0,
+  "createdAt": {
+    "$date": "2021-12-06T00:58:44.882Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T00:59:44.182Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "61ad6084626bfd1b5a1cc35d"
+  },
+  "items": [
+    "Trombone",
+    "Double Bass",
+    "Bassoon",
+    "Bass Clarinet",
+    "Cello"
+  ],
+  "userLikes": [],
+  "userDislikes": [],
+  "name": "Orchestral Instruments",
+  "userName": "JoeShmo",
+  "ownerEmail": "joeshmo@gmail.com",
+  "numberOfLikes": 0,
+  "numberOfDislikes": 0,
+  "publishedDate": "Sun Dec 05 2021 19:59:48 GMT-0500 (Eastern Standard Time)",
+  "comments": [],
+  "isPublished": false,
+  "numberOfViews": 0,
+  "createdAt": {
+    "$date": "2021-12-06T00:59:48.253Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-06T01:01:02.192Z"
+  },
+  "__v": 1
+}]
